@@ -1,0 +1,1 @@
+mvn clean package install -P dev-build
